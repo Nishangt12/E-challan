@@ -1,0 +1,21 @@
+h1 {
+    display: block;
+    text-align: center;
+    justify-content: center;
+}
+
+img {
+    position: absolute;
+    border-radius: 50%;
+    top: 0px;
+    left: 0px;
+    height: 100px;
+    width: 100px;
+}
+
+.login {
+    position: relative;
+    top: 10%;
+    right: -90%;
+    display: inline;
+}
