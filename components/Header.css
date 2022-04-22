@@ -1,0 +1,58 @@
+                                        .mainav {
+                                            background-color: Blue;
+                                            top: 45px;
+                                        }
+                                        
+                                        .logo {
+                                            top: 1px;
+                                            right: 50px;
+                                            position: absolute;
+                                            display: inline;
+                                            z-index: 50;
+                                            border-radius: 50%;
+                                        }
+                                        
+                                        .nav1 {
+                                            font-size: large;
+                                            font-weight: 600;
+                                        }
+                                        
+                                        .nav2 {
+                                            font-size: large;
+                                            margin-left: 800px;
+                                            font-weight: 600;
+                                        }
+                                        
+                                        .heading {
+                                            position: relative;
+                                            left: 600px;
+                                            display: inline;
+                                            top: 20px;
+                                        }
+                                        
+                                        .ktm {
+                                            background-color: aqua;
+                                            left: 400px;
+                                            height: 150px;
+                                            width: 1500px;
+                                            position: absolute;
+                                            overflow: visible;
+                                            border-radius: 0px 95.5px 95.5px 0px;
+                                            transform: rotate(-179.93deg);
+                                        }
+                                        
+                                        .heading1 {
+                                            position: relative;
+                                            display: inline;
+                                            top: 20px;
+                                            right: -30px;
+                                        }
+                                        
+                                        .ktm1 {
+                                            background-color: darkblue;
+                                            height: 150px;
+                                            width: 550px;
+                                            position: absolute;
+                                            overflow: visible;
+                                            border-radius: 0px 95.5px 95.5px 0px;
+                                        }
